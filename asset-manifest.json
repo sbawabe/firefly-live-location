@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firefly-live-location/static/css/main.e4c5b144.css",
+    "main.js": "/firefly-live-location/static/js/main.5b954622.js",
+    "static/js/879.a2f7d86e.chunk.js": "/firefly-live-location/static/js/879.a2f7d86e.chunk.js",
+    "index.html": "/firefly-live-location/index.html",
+    "main.e4c5b144.css.map": "/firefly-live-location/static/css/main.e4c5b144.css.map",
+    "main.5b954622.js.map": "/firefly-live-location/static/js/main.5b954622.js.map",
+    "879.a2f7d86e.chunk.js.map": "/firefly-live-location/static/js/879.a2f7d86e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4c5b144.css",
+    "static/js/main.5b954622.js"
+  ]
+}
